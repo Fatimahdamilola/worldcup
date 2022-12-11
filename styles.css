@@ -1,0 +1,48 @@
+* {
+    font-family:'Times New Roman', Times, serif
+}
+
+body{
+    background-image: url(/images/Portuguese_Football_Federation.svg.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: wheat;
+    margin-left:30px;
+}
+
+h2 {
+    font-size: 30px;
+}
+p {
+   font-size: 22px;
+}
+
+li {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+a {
+    display: block;
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+a:hover {
+    color: blue;
+}
+
+a:
+
+.read {
+    display: inline;
+}
+
+.copy {
+    margin-left: 50%;
+}
